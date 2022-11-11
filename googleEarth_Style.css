@@ -1,0 +1,17 @@
+@font-face {
+  font-family: myFontRegular;
+  src: url(https://static.wixstatic.com/ufonts/c5169b_bc7e9f30e8d2424785685353429e4320/woff2/file.woff2);
+}
+@font-face {
+  font-family: myFontBold;
+  src: url(https://static.wixstatic.com/ufonts/c5169b_df39ac023a1c41bb9a64d686eab1fa2d/woff2/file.woff2);
+}
+
+
+h2 {
+  font-family: myFontBold;
+}
+
+p {
+  font-family: myFontRegular;
+}
